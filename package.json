@@ -11,13 +11,17 @@
     "url": "git://github.com/brianc/node-proxynova"
   },
   "keywords": [
-    "proxy"
+    "proxy",
+    "free http proxy",
+    "http proxy"
   ],
   "author": "Brian M. Carlson",
   "license": "MIT",
   "dependencies": {
-    "mocha": "~1.8.1",
     "async": "~0.1.22",
     "request": "~2.12.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.8.1"
   }
 }
