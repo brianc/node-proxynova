@@ -1,5 +1,8 @@
 # proxynova
 
+
+[![Build Status](https://secure.travis-ci.org/brianc/node-proxynova.png)](http://travis-ci.org/brianc/node-proxynova)
+
 Retreive a list of free http proxy servers from http://www.proxynova.com because sometimes [it comes in handy](https://github.com/brianc/node-hacker-news-parser)
 
 ## api
