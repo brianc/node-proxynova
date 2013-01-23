@@ -1,0 +1,23 @@
+{
+  "name": "proxynova",
+  "version": "0.1.0",
+  "description": "fetches a list of proxies from proxynova.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianc/node-proxynova"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Brian M. Carlson",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "~1.8.1",
+    "async": "~0.1.22",
+    "request": "~2.12.0"
+  }
+}
